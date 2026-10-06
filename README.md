@@ -83,7 +83,7 @@ I build **AI systems that survive real enterprise conditions, not just lab demos
 
 ## 🏆 Awards & Achievements
 
-- 🎓 **Dean's List** — University of New Brunswick
+- 🎓 **Dean's List** — University of New Brunswick & National University of Computer & Emerging Sciences
 - 💰 **Scholarship** — University of New Brunswick
 - 🥈 **2nd Position** — Competitive Programming
 - 📜 **Poster Acceptance** — PST 2024 (DeepFakes)
