@@ -97,7 +97,7 @@ I build **AI systems that survive real enterprise conditions, not just lab demos
 ## 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-zubair.techai@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zubair.techai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Zubair-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadzubair-unb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Zubair-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zubair-unb)
 [![GitHub](https://img.shields.io/badge/zubairtechai-droi?style=flat-square&logo=github&logoColor=white)](https://github.com/zubairtechai-droi)
 
 ---
