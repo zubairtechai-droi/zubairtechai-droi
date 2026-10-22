@@ -2,7 +2,7 @@
 
 ### Forward-Deployed AI Engineer | Solutions Architect | Generative AI & Full-Stack Engineer
 
-I build **AI systems that survive real enterprise conditions, not just lab demos.** Over 7+ years I've decomposed ambiguous business problems into production-ready systems — access-aware RAG, governed multi-agent workflows, high-throughput computer vision pipelines, and secure full-stack applications in Python and TypeScript.
+I build **AI systems that survive real enterprise conditions, not just lab demos.** Over 5+ years I've decomposed ambiguous business problems into production-ready systems — access-aware RAG, governed multi-agent workflows, high-throughput computer vision pipelines, and secure full-stack applications in Python and TypeScript.
 
 📍 Fredericton, New Brunswick, Canada | 🎓 MSc Computer Science, University of New Brunswick | 📄 Published DeepFake Researcher
 
@@ -10,7 +10,7 @@ I build **AI systems that survive real enterprise conditions, not just lab demos
 
 ## 🚀 About Me
 
-- 🔭 **Currently:** Forward-Deployed AI Engineer at **Dot2Shape®** — owning discovery-to-adoption delivery for 14 enterprise AI implementations across healthcare, professional services and industrial operations.
+- 🔭 **Currently:** Forward-Deployed AI Engineer at  — owning discovery-to-adoption delivery for 14 enterprise AI implementations across healthcare, professional services and industrial operations.
 - 🧠 **Applied AI:** Access-aware RAG, semantic search and governed tool-calling workflows with citations, explicit state, human-in-the-loop approvals and retries — improving workflow completion by 34%.
 - 🧱 **Full-stack delivery:** Next.js/TypeScript, Node.js/NestJS and Python/FastAPI applications backed by reusable accelerators, cutting average pilot delivery from **12 weeks to 5 weeks**.
 - 🔐 **Enterprise integration:** CRM, ERP, document and identity platforms connected via APIs, webhooks, data contracts, OAuth/OIDC, SSO and RBAC for **5,000+ users**.
@@ -97,7 +97,6 @@ I build **AI systems that survive real enterprise conditions, not just lab demos
 ## 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-zubair.techai@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zubair.techai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Zubair-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zubair-unb)
 [![GitHub](https://img.shields.io/badge/zubairtechai-droi?style=flat-square&logo=github&logoColor=white)](https://github.com/zubairtechai-droi)
 
 ---
