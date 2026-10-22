@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Zubair 👋
+# Hi there, I'm Muhammad👋
 
 ### Forward-Deployed AI Engineer | Solutions Architect | Generative AI & Full-Stack Engineer
 
