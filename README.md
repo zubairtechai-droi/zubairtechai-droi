@@ -89,7 +89,7 @@ I build **AI systems that survive real enterprise conditions, not just lab demos
 - 📜 **Poster Acceptance** — PST 2024 (DeepFakes)
 - 🎤 **Research Talk** — Soup 2024 (DeepFakes)
 - 📑 **Poster Acceptances** — UNB Computer Science Department Annual Conference 2023 & 2024
-- 📚 **Survey Paper** — *Exploring the Landscape of Compressed DeepFakes: Generation, Datasets and Detection*
+- 📚 **Survey Paper** — *Published Research Paper on DeepFake*
 - ✅ **Certifications** — Vector Databases: From Embeddings to Applications . Advanced Learning Algorithms · Supervised Machine Learning: Regression & Classification · Foundations of Cybersecurity · SQL 50 · HackerRank SQL Advanced
 
 ---
