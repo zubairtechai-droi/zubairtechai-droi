@@ -4,9 +4,9 @@
 
 I build **AI systems that survive real enterprise conditions, not just lab demos.** Over 5+ years I've decomposed ambiguous business problems into production-ready systems — access-aware RAG, governed multi-agent workflows, high-throughput computer vision pipelines, and secure full-stack applications in Python and TypeScript.
 
-📍 Fredericton, New Brunswick, Canada | 🎓 MSc Computer Science, University of New Brunswick | 📄 Published DeepFake Researcher
 
----
+
+
 
 ## 🚀 About Me
 
@@ -86,10 +86,10 @@ I build **AI systems that survive real enterprise conditions, not just lab demos
 - 🎓 **Dean's List** — University of New Brunswick & National University of Computer & Emerging Sciences
 - 💰 **Scholarship** — University of New Brunswick
 - 🥈 **2nd Position** — Competitive Programming
-- 📜 **Poster Acceptance** — PST 2024 (DeepFakes)
-- 🎤 **Research Talk** — Soup 2024 (DeepFakes)
+- 📜 **Poster Acceptance** — PST 2024 
+- 🎤 **Research Talk** — Soup 2024 
 - 📑 **Poster Acceptances** — UNB Computer Science Department Annual Conference 2023 & 2024
-- 📚 **Survey Paper** — *Published Research Paper on DeepFake*
+- 📚 **Survey Paper** — *Published Research Paper*
 - ✅ **Certifications** — Vector Databases: From Embeddings to Applications . Advanced Learning Algorithms · Supervised Machine Learning: Regression & Classification · Foundations of Cybersecurity · SQL 50 · HackerRank SQL Advanced
 
 ---
